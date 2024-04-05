@@ -11,3 +11,8 @@ h1{
     color: rgb(0, 0, 0);
     text-align: center;
 }
+#resultado{
+    font-size: 150px;
+    color:blue;
+    margin-left: 100px;
+}
